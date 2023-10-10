@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eyes/static/css/main.9d8e6faf.css",
+    "main.js": "/eyes/static/js/main.e7d827e7.js",
+    "static/js/787.d8bd42b9.chunk.js": "/eyes/static/js/787.d8bd42b9.chunk.js",
+    "index.html": "/eyes/index.html",
+    "main.9d8e6faf.css.map": "/eyes/static/css/main.9d8e6faf.css.map",
+    "main.e7d827e7.js.map": "/eyes/static/js/main.e7d827e7.js.map",
+    "787.d8bd42b9.chunk.js.map": "/eyes/static/js/787.d8bd42b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d8e6faf.css",
+    "static/js/main.e7d827e7.js"
+  ]
+}
